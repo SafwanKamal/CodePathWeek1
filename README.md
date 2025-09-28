@@ -32,22 +32,22 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of the implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Week1](https://github.com/user-attachments/assets/1e5ec1ed-7eb5-4743-ab71-bb9170654d44)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-## License
+## License!
+
 
     Copyright [2025] [Safwan Kamal]
 
