@@ -1,0 +1,14 @@
+/* index.css */
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  background-color: #0b0f17;  /* dark background */
+  color: #e6f3ff;            /* light text */
+}
+
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}

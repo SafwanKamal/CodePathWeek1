@@ -1,0 +1,42 @@
+/* Post.css */
+
+.post {
+  background-color: #111826; /* slightly lighter than page background */
+  color: #e6f3ff;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s;
+  flex: 0 0 400px;  
+  min-height: 400px;
+}
+
+.post:hover {
+  transform: translateY(-3px);
+}
+
+.post h2 {
+  margin-top: 0;
+  color: #ff4d88; 
+}
+
+.post p {
+  margin-bottom: 0.5rem;
+  color: #a8f3ff;
+}
+
+.post a {
+  color: #00eaff; 
+  text-decoration: none;
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
+
+.post img{
+    border-radius: 2%;
+    height: 300px;
+    width: 250px;
+}
